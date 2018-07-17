@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: New consensus for MDMV2.aux
+The style file: IEEEtran.bst
+Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 53 of file biblio.bib
+ : 
+ : Author ={Hertig, Alyssa, CoinDesk  8 November 2017}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in BCphilo
+Warning--empty journal in borda
+Warning--empty journal in condorcet
+
+Done.
+(There was 1 error message)

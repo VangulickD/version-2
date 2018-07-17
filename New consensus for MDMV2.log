@@ -1,0 +1,1562 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6200 64-bit) (preloaded format=pdflatex 2016.12.27)  17 JUL 2018 08:37
+entering extended mode
+**"./New consensus for MDMV2.tex"
+("New consensus for MDMV2.tex"
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(IEEEtran4PSCC.cls
+Document Class: IEEEtran4PSCC 2014/02/28 by PSCC, mostly based on IEEEtran late
+x package (V1.8a) by Michael Shell
+-- For extra information than those provided in the PSCC template, please refer
+ to the original "IEEEtran_HOWTO" manual for usage information.
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 456.
+
+(D:\programs\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1037.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1037.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (D:\programs\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(D:\programs\tex\latex\todonotes\todonotes.sty
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(D:\programs\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\programs\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(D:\programs\tex\generic\xkeyval\xkeyval.tex
+(D:\programs\tex\generic\xkeyval\xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(D:\programs\tex\generic\xkeyval\keyval.tex))
+\XKV@depth=\count94
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(D:\programs\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\programs\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(D:\programs\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(D:\programs\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\programs\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\programs\tex\latex\pgf\frontendlayer\tikz.sty
+(D:\programs\tex\latex\pgf\basiclayer\pgf.sty
+(D:\programs\tex\latex\pgf\utilities\pgfrcs.sty
+(D:\programs\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen125
+\pgfutil@tempdimb=\dimen126
+
+(D:\programs\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(D:\programs\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box28
+
+(D:\programs\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(D:\programs\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(D:\programs\tex\latex\pgf\basiclayer\pgfcore.sty
+(D:\programs\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\programs\tex\latex\graphics\graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\programs\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\programs\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(D:\programs\tex\latex\pgf\systemlayer\pgfsys.sty
+(D:\programs\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(D:\programs\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(D:\programs\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen129
+\pgf@y=\dimen130
+\pgf@xa=\dimen131
+\pgf@ya=\dimen132
+\pgf@xb=\dimen133
+\pgf@yb=\dimen134
+\pgf@xc=\dimen135
+\pgf@yc=\dimen136
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count96
+\c@pgf@countb=\count97
+\c@pgf@countc=\count98
+\c@pgf@countd=\count99
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+
+(D:\programs\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(D:\programs\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(D:\programs\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(D:\programs\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count100
+\pgfsyssoftpath@bigbuffer@items=\count101
+)
+(D:\programs\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(D:\programs\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(D:\programs\tex\generic\pgf\math\pgfmath.code.tex
+(D:\programs\tex\generic\pgf\math\pgfmathcalc.code.tex
+(D:\programs\tex\generic\pgf\math\pgfmathutil.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen137
+\pgfmath@count=\count102
+\pgfmath@box=\box29
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(D:\programs\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex)
+)) (D:\programs\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count103
+))
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen138
+\pgf@picmaxx=\dimen139
+\pgf@picminy=\dimen140
+\pgf@picmaxy=\dimen141
+\pgf@pathminx=\dimen142
+\pgf@pathmaxx=\dimen143
+\pgf@pathminy=\dimen144
+\pgf@pathmaxy=\dimen145
+\pgf@xx=\dimen146
+\pgf@xy=\dimen147
+\pgf@yx=\dimen148
+\pgf@yy=\dimen149
+\pgf@zx=\dimen150
+\pgf@zy=\dimen151
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen152
+\pgf@path@lasty=\dimen153
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen154
+\pgf@shorten@start@additional=\dimen155
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count104
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen156
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen157
+\pgf@pt@y=\dimen158
+\pgf@pt@temp=\dimen159
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen160
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen161
+\pgf@sys@shading@range@num=\count105
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box33
+))
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(D:\programs\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(D:\programs\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box34
+)
+(D:\programs\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(D:\programs\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen162
+\pgf@nodesepend=\dimen163
+)
+(D:\programs\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(D:\programs\tex\latex\pgf\utilities\pgffor.sty
+(D:\programs\tex\latex\pgf\utilities\pgfkeys.sty
+(D:\programs\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(D:\programs\tex\latex\pgf\math\pgfmath.sty
+(D:\programs\tex\generic\pgf\math\pgfmath.code.tex))
+(D:\programs\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(D:\programs\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen164
+\pgffor@skip=\dimen165
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(D:\programs\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(D:\programs\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count106
+\pgfplotmarksize=\dimen166
+)
+\tikz@lastx=\dimen167
+\tikz@lasty=\dimen168
+\tikz@lastxsaved=\dimen169
+\tikz@lastysaved=\dimen170
+\tikzleveldistance=\dimen171
+\tikzsiblingdistance=\dimen172
+\tikz@figbox=\box35
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count107
+\tikznumberofchildren=\count108
+\tikznumberofcurrentchild=\count109
+\tikz@fig@count=\count110
+
+(D:\programs\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count111
+\pgfmatrixcurrentcolumn=\count112
+\pgf@matrix@numberofcolumns=\count113
+)
+\tikz@expandcount=\count114
+
+(D:\programs\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.co
+de.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(D:\programs\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositionin
+g.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+) (D:\programs\tex\latex\tools\calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count115
+\calc@Bcount=\count116
+\calc@Adimen=\dimen173
+\calc@Bdimen=\dimen174
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count117
+\calc@Cskip=\skip46
+)
+\c@@todonotes@numberoftodonotes=\count118
+)
+(D:\programs\tex\latex\framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip47
+\fb@frw=\dimen175
+\fb@frh=\dimen176
+\FrameRule=\dimen177
+\FrameSep=\dimen178
+)
+(D:\programs\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(D:\programs\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\programs\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen179
+))
+(D:\programs\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+(D:\programs\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count119
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count120
+\leftroot@=\count121
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count122
+\DOTSCASE@=\count123
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box39
+\strutbox@=\box40
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count124
+\c@MaxMatrixCols=\count125
+\dotsspace@=\muskip10
+\c@parentequation=\count126
+\dspbrk@lvl=\count127
+\tag@help=\toks30
+\row@=\count128
+\column@=\count129
+\maxfields@=\count130
+\andhelp@=\toks31
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks32
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(D:\programs\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count131
+\c@ALC@line=\count132
+\c@ALC@rem=\count133
+\c@ALC@depth=\count134
+\ALC@tlm=\skip51
+\algorithmicindent=\skip52
+)
+(D:\programs\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2015/06/22 v2.0b fixes to LaTeX (obsolete)
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (D:\programs\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\programs\tex\latex\sttools\flushend.sty
+Package: flushend 2017/03/27 v3.3 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip53
+\flushend@@lastskip@b=\skip54
+\flushend@@lastskip@c=\skip55
+\flushend@@penalty@a=\count135
+\flushend@@lastkern@a=\dimen188
+\var@@temp@spread=\dimen189
+\var@@temp@a=\dimen190
+\flushend@@page@rule=\dimen191
+\flushend@@varbox@a=\box41
+\flushend@@varbox@c=\box42
+\flushend@@tempbox@a=\box43
+\flushend@@tempbox@c=\box44
+\@viper=\box45
+\hold@viper=\box46
+\atColsBreak=\toks34
+\atColsEnd=\toks35
+
+(D:\programs\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count136
+))
+(D:\programs\tex\latex\base\fontenc.sty
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+ (D:\programs\tex\latex\base\t1enc.def
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
+
+(D:\programs\tex\latex\psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+(D:\programs\tex\latex\base\inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks36
+\inpenc@posthook=\toks37
+ (D:\programs\tex\latex\base\latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+)) ("New consensus for MDMV2.aux")
+\openout1 = `"New consensus for MDMV2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 40.
+
+-- Lines per column: 56 (exact).
+(D:\programs\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen192
+\scratchbox=\box47
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen193
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks39
+) (D:\programs\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\programs\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(D:\programs\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(D:\programs\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\programs\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\programs\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(D:\programs\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\programs\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\programs\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 62--62
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (6.52982pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 win- 
+ []
+
+
+Overfull \hbox (10.40984pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 pack- 
+ []
+
+
+Overfull \hbox (2.07988pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 age  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 62--62
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (6.52982pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 win- 
+ []
+
+
+Overfull \hbox (10.40984pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 pack- 
+ []
+
+
+Overfull \hbox (2.07988pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 age  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 62--62
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (6.52982pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 win- 
+ []
+
+
+Overfull \hbox (10.40984pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 pack- 
+ []
+
+
+Overfull \hbox (2.07988pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 age  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 62--62
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (6.52982pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 win- 
+ []
+
+
+Overfull \hbox (10.40984pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 pack- 
+ []
+
+
+Overfull \hbox (2.07988pt too wide) in paragraph at lines 62--62
+\T1/ptm/m/n/10 age  
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 63--63
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 63--63
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 63--63
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 63--63
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 75.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 75.
+[1{C:/Users/vangu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+
+LaTeX Warning: File `simplified market time line.JPG' not found on input line 9
+9.
+
+<simplified market time line.JPG, id=12, 963.6pt x 542.025pt>
+File: simplified market time line.JPG Graphic file (type jpg)
+
+<use simplified market time line.JPG>
+Package pdftex.def Info: simplified market time line.JPG used on input line 99.
+
+(pdftex.def)             Requested size: 252.0pt x 141.75023pt.
+
+Overfull \hbox (60.40903pt too wide) in paragraph at lines 115--115
+[][][][]\T1/ptm/m/n/10 Bertrand/Damien: 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 pou- 
+ []
+
+
+Overfull \hbox (1.92998pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vez 
+ []
+
+
+Overfull \hbox (6.88994pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vous 
+ []
+
+
+Overfull \hbox (15.71962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 valider 
+ []
+
+
+Overfull \hbox (7.0796pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 cette 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 ap- 
+ []
+
+
+Overfull \hbox (15.40984pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 proche 
+ []
+
+
+Overfull \hbox (10.96962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 merci  
+ []
+
+
+Overfull \hbox (60.40903pt too wide) in paragraph at lines 115--115
+[][][][]\T1/ptm/m/n/10 Bertrand/Damien: 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 pou- 
+ []
+
+
+Overfull \hbox (1.92998pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vez 
+ []
+
+
+Overfull \hbox (6.88994pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vous 
+ []
+
+
+Overfull \hbox (15.71962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 valider 
+ []
+
+
+Overfull \hbox (7.0796pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 cette 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 ap- 
+ []
+
+
+Overfull \hbox (15.40984pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 proche 
+ []
+
+
+Overfull \hbox (10.96962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 merci  
+ []
+
+
+Overfull \hbox (60.40903pt too wide) in paragraph at lines 115--115
+[][][][]\T1/ptm/m/n/10 Bertrand/Damien: 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 pou- 
+ []
+
+
+Overfull \hbox (1.92998pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vez 
+ []
+
+
+Overfull \hbox (6.88994pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vous 
+ []
+
+
+Overfull \hbox (15.71962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 valider 
+ []
+
+
+Overfull \hbox (7.0796pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 cette 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 ap- 
+ []
+
+
+Overfull \hbox (15.40984pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 proche 
+ []
+
+
+Overfull \hbox (10.96962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 merci  
+ []
+
+
+Overfull \hbox (60.40903pt too wide) in paragraph at lines 115--115
+[][][][]\T1/ptm/m/n/10 Bertrand/Damien: 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 pou- 
+ []
+
+
+Overfull \hbox (1.92998pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vez 
+ []
+
+
+Overfull \hbox (6.88994pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 vous 
+ []
+
+
+Overfull \hbox (15.71962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 valider 
+ []
+
+
+Overfull \hbox (7.0796pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 cette 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 ap- 
+ []
+
+
+Overfull \hbox (15.40984pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 proche 
+ []
+
+
+Overfull \hbox (10.96962pt too wide) in paragraph at lines 115--115
+\T1/ptm/m/n/10 merci  
+ []
+
+[2 <./simplified market time line.JPG>]
+
+LaTeX Warning: File `Info flow P2P and MKT.JPG' not found on input line 129.
+
+<Info flow P2P and MKT.JPG, id=18, 722.7pt x 406.51875pt>
+File: Info flow P2P and MKT.JPG Graphic file (type jpg)
+
+<use Info flow P2P and MKT.JPG>
+Package pdftex.def Info: Info flow P2P and MKT.JPG used on input line 129.
+(pdftex.def)             Requested size: 252.0pt x 141.75023pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 169.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 169.
+ [3 <./Info flow P2P and MKT.JPG>]
+Overfull \hbox (26.50969pt too wide) in paragraph at lines 233--233
+[][][][]\T1/ptm/m/n/10 reprendre 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (8.19972pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 mule  
+ []
+
+
+Overfull \hbox (26.50969pt too wide) in paragraph at lines 233--233
+[][][][]\T1/ptm/m/n/10 reprendre 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (8.19972pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 mule  
+ []
+
+
+Overfull \hbox (26.50969pt too wide) in paragraph at lines 233--233
+[][][][]\T1/ptm/m/n/10 reprendre 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (8.19972pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 mule  
+ []
+
+
+Overfull \hbox (26.50969pt too wide) in paragraph at lines 233--233
+[][][][]\T1/ptm/m/n/10 reprendre 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (8.19972pt too wide) in paragraph at lines 233--233
+\T1/ptm/m/n/10 mule  
+ []
+
+[4]
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 276.
+
+
+Overfull \hbox (12.24106pt too wide) detected at line 288
+[]
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 347--347
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 347--347
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 347--347
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (3.75993pt too wide) in paragraph at lines 347--347
+[][][][]\T1/ptm/m/n/10 find 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 347--347
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 352--352
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 352--352
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 352--352
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ence  
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 352--352
+[][][][]\T1/ptm/m/n/10 add 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 352--352
+\T1/ptm/m/n/10 ence  
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+[]\T1/ptm/b/n/8 Request phase\T1/ptm/m/n/8 : $\OML/cmm/m/it/8 M[]$ \T1/ptm/m/n/
+8 sends the mes-sage $\OML/cmm/m/it/8 <
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 374--375
+[]\T1/ptm/b/n/8 Prepare phase\T1/ptm/m/n/8 : Ev-ery $\OML/cmm/m/it/8 x$ \T1/ptm
+/m/n/8 min-ers repli-cate the re-quest to
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 374--375
+\T1/ptm/m/n/8 all min-ers from the same in-ter-val with the mes-sage $\OML/cmm/
+m/it/8 <
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 375--376
+[]\T1/ptm/b/n/8 Commit phase\T1/ptm/m/n/8 : each miner that has re-ceived a \T1
+/ptm/m/it/8 pre-
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 375--376
+\T1/ptm/m/it/8 pare \T1/ptm/m/n/8 mes-sage (named $\OML/cmm/m/it/8 M[]$\T1/ptm/
+m/n/8 )sends back the fol-low-ing $\OML/cmm/m/it/8 <
+ []
+
+<bft.JPG, id=41, 963.6pt x 542.025pt>
+File: bft.JPG Graphic file (type jpg)
+ <use bft.JPG>
+Package pdftex.def Info: bft.JPG used on input line 385.
+(pdftex.def)             Requested size: 252.0pt x 141.75023pt.
+ [6 <./bft.JPG>]
+<refpt.JPG, id=46, 963.6pt x 542.025pt>
+File: refpt.JPG Graphic file (type jpg)
+ <use refpt.JPG>
+Package pdftex.def Info: refpt.JPG used on input line 408.
+(pdftex.def)             Requested size: 252.0pt x 141.75023pt.
+
+<solvefork.JPG, id=47, 675.12225pt x 201.75375pt>
+File: solvefork.JPG Graphic file (type jpg)
+ <use solvefork.JPG>
+Package pdftex.def Info: solvefork.JPG used on input line 427.
+(pdftex.def)             Requested size: 233.20001pt x 69.68823pt.
+ [7 <./refpt.JPG> <./solvefork.JPG>]
+Overfull \hbox (25.95963pt too wide) in paragraph at lines 475--475
+[][][][]\T1/ptm/m/n/10 comparer 
+ []
+
+
+Overfull \hbox (4.29971pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 ceci 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 mé- 
+ []
+
+
+Overfull \hbox (11.52968pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 moire 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 d'un 
+ []
+
+
+Overfull \hbox (10.41957pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 smart 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 me- 
+ []
+
+
+Overfull \hbox (5.41983pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 type 
+ []
+
+
+Overfull \hbox (8.60988pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 linky 
+ []
+
+
+Overfull \hbox (10.97978pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 AMR  
+ []
+
+
+Overfull \hbox (25.95963pt too wide) in paragraph at lines 475--475
+[][][][]\T1/ptm/m/n/10 comparer 
+ []
+
+
+Overfull \hbox (4.29971pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 ceci 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 mé- 
+ []
+
+
+Overfull \hbox (11.52968pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 moire 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 d'un 
+ []
+
+
+Overfull \hbox (10.41957pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 smart 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 me- 
+ []
+
+
+Overfull \hbox (5.41983pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 type 
+ []
+
+
+Overfull \hbox (8.60988pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 linky 
+ []
+
+
+Overfull \hbox (10.97978pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 AMR  
+ []
+
+
+Overfull \hbox (25.95963pt too wide) in paragraph at lines 475--475
+[][][][]\T1/ptm/m/n/10 comparer 
+ []
+
+
+Overfull \hbox (4.29971pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 ceci 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 mé- 
+ []
+
+
+Overfull \hbox (11.52968pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 moire 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 d'un 
+ []
+
+
+Overfull \hbox (10.41957pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 smart 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 me- 
+ []
+
+
+Overfull \hbox (5.41983pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 type 
+ []
+
+
+Overfull \hbox (8.60988pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 linky 
+ []
+
+
+Overfull \hbox (10.97978pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 AMR  
+ []
+
+
+Overfull \hbox (25.95963pt too wide) in paragraph at lines 475--475
+[][][][]\T1/ptm/m/n/10 comparer 
+ []
+
+
+Overfull \hbox (4.29971pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 ceci 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 mé- 
+ []
+
+
+Overfull \hbox (11.52968pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 moire 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 d'un 
+ []
+
+
+Overfull \hbox (10.41957pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 smart 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 me- 
+ []
+
+
+Overfull \hbox (5.41983pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 type 
+ []
+
+
+Overfull \hbox (8.60988pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 linky 
+ []
+
+
+Overfull \hbox (10.97978pt too wide) in paragraph at lines 475--475
+\T1/ptm/m/n/10 AMR  
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 fur- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 ther 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 an- 
+ []
+
+
+Overfull \hbox (9.85977pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 lyzed  
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 fur- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 ther 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 an- 
+ []
+
+
+Overfull \hbox (9.85977pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 lyzed  
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 fur- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 ther 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 an- 
+ []
+
+
+Overfull \hbox (9.85977pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 lyzed  
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 fur- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 ther 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 an- 
+ []
+
+
+Overfull \hbox (9.85977pt too wide) in paragraph at lines 479--479
+\T1/ptm/m/n/10 lyzed  
+ []
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+("New consensus for MDMV2.bbl")
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+- LAST -
+Extra skip:76.21793pt
+Left:672.0pt/0.0pt
+Right:372.0pt/1.43193pt
+Output:413.19089pt
+[8] ("New consensus for MDMV2.aux") ) 
+Here is how much of TeX's memory you used:
+ 14567 strings out of 493333
+ 278180 string characters out of 3146115
+ 372088 words of memory out of 3000000
+ 17795 multiletter control sequences out of 15000+200000
+ 117928 words of font info for 116 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,11n,76p,833b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/programs/fonts/enc/dvips/base/8r.enc}<
+D:/programs/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/programs/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><D:/programs/fonts/type1/public/amsfonts/cm/cmmi5
+.pfb><D:/programs/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/programs/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><D:/programs/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><D:/programs/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/programs/fon
+ts/type1/public/amsfonts/cm/cmr5.pfb><D:/programs/fonts/type1/public/amsfonts/c
+m/cmr6.pfb><D:/programs/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/programs/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><D:/programs/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><D:/programs/fonts/type1/public/amsfonts/cm/cmsy5.pfb><D:/program
+s/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/programs/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><D:/programs/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/pro
+grams/fonts/type1/urw/times/utmb8a.pfb><D:/programs/fonts/type1/urw/times/utmbi
+8a.pfb><D:/programs/fonts/type1/urw/times/utmr8a.pfb><D:/programs/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on "New consensus for MDMV2.pdf" (8 pages, 749301 bytes).
+PDF statistics:
+ 118 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+
